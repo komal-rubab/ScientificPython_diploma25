@@ -3,7 +3,8 @@
 Since software management is not officially part of this course, we will only cover the very starting basics of using git, just enough to be comfortable with getting your course materials from github and saving your homework.
 
 
-### WHATTT use git?
+
+### Why use git?
 
 ![](pictures/final.jpg) 
 
