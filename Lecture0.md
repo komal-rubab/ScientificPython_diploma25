@@ -4,7 +4,8 @@ Since software management is not officially part of this course, we will only co
 
 
 
-### 2233445566 use git?
+### Why use git?
+
 
 ![](pictures/final.jpg) 
 
