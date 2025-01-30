@@ -26,5 +26,23 @@ January 27-31
   - sympy
   - numpy
   - matplotlib
+<<<<<<< HEAD
 
 >>>>>>> 247ba792c228a5308de90993a516a800772d25b4
+=======
+  - scipy 
+  
+### Thursday: 09:30 - 13:00; 14:00 - 17:30  
+  
+  - exercises discussion
+  - decorators
+  - classes
+  - scripts
+  
+### Friday: 09:30 - 13:00; 14:00 - 17:30    
+  
+  - exercises discussion
+  - pandas
+  - xarray
+  - "fake exam"
+>>>>>>> fbf83d3161660b46974ee0d77100fb3b05d3c948
